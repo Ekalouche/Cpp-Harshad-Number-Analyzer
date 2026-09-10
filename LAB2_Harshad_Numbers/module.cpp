@@ -20,15 +20,17 @@ void GetFilename()
 	cin >> file_Name;
 
 	ifstream file1(file_Name);
+	file.open(file_Name);
 
 	if (file1.is_open())
 	{
-		
+		while(fetline())
 
 	}
 	else
 	{
-
+		cout << "Sorry File dose not exist"
+		return;
 	}
 	
 	while(file1 >> )
