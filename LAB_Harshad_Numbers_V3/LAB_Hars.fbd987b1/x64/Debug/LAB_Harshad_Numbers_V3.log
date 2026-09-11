@@ -1,0 +1,3 @@
+﻿LAB_Harshad_Numbers_V3.obj : error LNK2019: unresolved external symbol "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl GetFilename(void)" (?GetFilename@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) referenced in function main
+LAB_Harshad_Numbers_V3.obj : error LNK2019: unresolved external symbol "int __cdecl IsHarshad(int)" (?IsHarshad@@YAHH@Z) referenced in function main
+D:\EBKComp2\Com2_Lab2\LAB_Harshad_Numbers_V3\x64\Debug\LAB_Harshad_Numbers_V3.exe : fatal error LNK1120: 2 unresolved externals
